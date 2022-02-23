@@ -1,0 +1,49 @@
+h2{
+    color: aquamarine;
+}
+
+#rojo{
+    color: red;
+}
+
+#azul{
+   
+    color: blue;
+}
+
+#celeste{
+    color: aqua;
+    text-decoration: underline;
+}
+
+#amarillo{
+    color: yellow;
+}
+
+.verde{
+    color: springgreen
+}
+.violeta{
+    color: violet;
+   
+}
+
+.rojo{
+    color: red;
+    
+}
+
+.tabla{
+    width: 250px;
+    border: 1px solid #000;
+    border-collapse: collapse;
+
+}
+
+.tabla th, .tabla td{
+    border: 1px solid #000;
+}
+
+.naranja{
+    color: orange;
+}

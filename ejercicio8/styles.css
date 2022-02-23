@@ -1,0 +1,15 @@
+a{
+    color: #CC0000;
+    
+}
+
+a:link {
+    background-color: #CC0000;
+    color: #fff
+}
+
+a:hover {
+    background-color: #CC0000;
+    color: #CCC
+
+}
