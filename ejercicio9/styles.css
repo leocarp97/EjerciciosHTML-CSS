@@ -6,12 +6,12 @@ list-style-position: inside;
 }
 
 #check{
-    height: 1px;
-    width: 1px;
+    height: 1cm;
+ width: 1cm;
 }
 
 #menu{
-    width: 180px;
+    width: 1px;
     list-style: none;
     margin: 0px;
     padding: 0px;
